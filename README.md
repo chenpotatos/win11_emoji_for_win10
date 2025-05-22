@@ -1,6 +1,6 @@
 # **Windows 11 Emoji For Windows 10**
 
-✨让 win10 和 win11 有更一致的 Emoji 显示
+✨让 win10 和 win11 有更一致的 Emoji 体验
 
 ## 🧐 食用方法/How to use?
 
